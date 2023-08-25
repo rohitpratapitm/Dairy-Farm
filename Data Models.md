@@ -4,7 +4,7 @@ Cow:
 -type: String (FK)
 -pictureUrl: String
 -dob: Date
--status: Pregnant | Ready For Insemination | In Milking
+-status: Pregnant | Ready For Insemination | In Milking | Sick
 -nextVaccinationDate: Date
 
 Cow Category:
